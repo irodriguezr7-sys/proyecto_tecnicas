@@ -95,7 +95,7 @@ function App() {
   return (
     <div className="app-container">
       <div className="encabezado">
-        <h1>📇 Agenda de Contactos</h1>
+        <h1> Agenda de Contactos</h1>
         <button className="boton-nuevo" onClick={abrirNuevoContacto}>
           ➕ Nuevo contacto
         </button>
